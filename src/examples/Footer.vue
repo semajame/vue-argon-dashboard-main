@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import { useStore } from "vuex";
 const store = useStore();
 </script>
@@ -64,4 +64,13 @@ const store = useStore();
       </div>
     </div>
   </footer>
+</template> -->
+<template>
+  <div></div>
 </template>
+
+<script>
+export default {};
+</script>
+
+<style></style>
